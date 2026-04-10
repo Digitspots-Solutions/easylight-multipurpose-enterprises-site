@@ -1,0 +1,42 @@
+{
+  "businessName": "Easylight Multipurpose Enterprises",
+  "industry": "Retail & Services",
+  "tone": "friendly",
+  "tagline": "Your One-Stop Shop for Technology, Fresh Produce & Essential Services in Karu",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Easylight Multipurpose Enterprises - Where Convenience Meets Quality. From phone accessories and gadgets to fresh farm produce, business center services, POS transactions, and refreshments, we've got everything you need under one roof. Located at Angwan Soja Masaka, opposite COCIN LCC, Karu.",
+      "imagePrompt": "Vibrant Nigerian retail storefront in Karu with colorful display of mobile phones, fresh vegetables and fruits, people charging devices, modern POS machine, and cold drinks cooler, bustling daytime atmosphere, photorealistic, warm lighting, welcoming entrance",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Easylight Multipurpose Enterprises is Karu's trusted neighborhood hub for everyday essentials and services. We understand the busy lifestyle of our community, which is why we've brought together multiple services in one convenient location. Whether you need a new phone charger, fresh vegetables for dinner, to print important documents, charge your devices, make a quick bank transfer via POS, or grab a cold drink, we're here to serve you with a smile. Our commitment is simple: quality products, reliable services, and friendly customer care every single day.",
+      "imagePrompt": "Interior of a well-organized Nigerian multipurpose shop with sections for phone accessories on wall displays, crates of fresh tomatoes and peppers, computer workstation, charging station with multiple devices, POS terminal at counter, refrigerator with drinks, professional Nigerian staff assisting customers, bright natural lighting, clean and modern",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Phone Accessories: Quality chargers, earphones, phone cases, screen protectors, and more for all major brands. Keep your devices protected and powered.\n\nLocal Farm Produce: Fresh vegetables, fruits, and farm products sourced from local farmers. Enjoy healthy, affordable produce delivered straight from Nigerian farms.\n\nComputer Business Center: Printing, photocopying, scanning, typing, document binding, and internet services. Professional business solutions at affordable rates.\n\nPhone & Gadgets Charging Center: Safe and secure charging services for your phones, tablets, and laptops while you shop or run errands.\n\nPOS Services: Quick and reliable cash withdrawals, fund transfers, and bill payments. Bank at your convenience without the queue.\n\nSoft Drinks & Refreshments: Cold carbonated drinks and beverages to keep you refreshed throughout the day.",
+      "imagePrompt": "Six-panel collage showing Nigerian business services: phone accessories display with cables and cases, colorful fresh vegetables in baskets, person using computer and printer, multiple phones charging on rack, POS transaction with Nigerian naira, cold Coca-Cola and other drinks in cooler, each panel photorealistic and professionally lit",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "We're conveniently located at Angwan Soja Masaka, opposite COCIN LCC in Karu, Nigeria. Open daily to serve all your needs. Call us, visit our shop, or send us a message on WhatsApp - we're always ready to help!\n\nWhether you need to charge your phone while shopping for fresh vegetables, print documents while getting a cold drink, or simply need quality phone accessories and reliable POS services, Easylight Multipurpose Enterprises is your trusted partner in Karu.",
+      "imagePrompt": "Nigerian neighborhood street view showing storefront with clear signage 'Easylight Multipurpose Enterprises', COCIN LCC church visible in background, Karu local area setting, customers entering shop, motorcycle parked outside, welcoming atmosphere, golden hour lighting, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 810 706 8873",
+    "email": "easylightenterprises@gmail.com",
+    "address": "Angwan Soja Masaka, Opposite COCIN LCC, Karu, Nigeria",
+    "whatsapp": "https://wa.me/2348107068873"
+  }
+}
